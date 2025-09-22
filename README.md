@@ -8,7 +8,6 @@ sdk_version: 5.46.1
 app_file: app.py
 pinned: false
 license: apache-2.0
-short_description: A simple learning project to explore H3 geospatial indexing.
 ---
 
 Type any address and get:
