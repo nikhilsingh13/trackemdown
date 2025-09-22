@@ -10,6 +10,8 @@ pinned: false
 license: apache-2.0
 ---
 
+[Try the live demo on Hugging Face Spaces]https://huggingface.co/spaces/nikhilsingh/trackemdown
+
 Type any address and get:
 - Exact coordinates (latitude, longitude)
 - H3 geotag (hierarchical hexagonal identifier)
